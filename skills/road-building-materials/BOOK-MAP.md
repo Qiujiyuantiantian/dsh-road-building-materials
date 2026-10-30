@@ -35,14 +35,14 @@
 
 ## ch2 · 沥青材料（印刷 43–85，9 张）
 
-**先过 `ch2-K9` 口径地图**，否则 ch2 其余八张全会被误用；`ch2-K4` 是「只能命名、不能判」。
+**先过 `ch2-K9` 口径地图**，否则 ch2 其余八张全会被误用；`ch2-K4` 是可判的——表 2-8 阈值在页图上完整（曾误判为不可判，已修）。
 
 | 卡 | 标题 | 文件 |
 |---|---|---|
 | `ch2-K1-three-families` | K1 感温性三族：各管一段温度，不互通 | [ch2-K1-three-families.md](cards/ch2/ch2-K1-three-families.md) |
 | `ch2-K2-equivalent-temperature` | K2 当量温度：能算，但「代替」有边界 | [ch2-K2-equivalent-temperature.md](cards/ch2/ch2-K2-equivalent-temperature.md) |
 | `ch2-K3-grades-and-four-tables` | K3 标号与四张判据表：一份文件一张表 | [ch2-K3-grades-and-four-tables.md](cards/ch2/ch2-K3-grades-and-four-tables.md) |
-| `ch2-K4-pg-name-only` | K4 PG：只能命名，不能判 | [ch2-K4-pg-name-only.md](cards/ch2/ch2-K4-pg-name-only.md) |
+| `ch2-K4-pg-judgeable` | K4 PG：能判（表 2-8 阈值完整） | [ch2-K4-pg-judgeable.md](cards/ch2/ch2-K4-pg-judgeable.md) |
 | `ch2-K5-three-mechanical-tests` | K5 力学评价三试验：测什么能测，判什么判不了 | [ch2-K5-three-mechanical-tests.md](cards/ch2/ch2-K5-three-mechanical-tests.md) |
 | `ch2-K6-aging-three-levels` | K6 老化模拟三级：两级短期只拌和，一级长期只表层 | [ch2-K6-aging-three-levels.md](cards/ch2/ch2-K6-aging-three-levels.md) |
 | `ch2-K7-modified` | K7 改性沥青：类×级与四项专用试验 | [ch2-K7-modified.md](cards/ch2/ch2-K7-modified.md) |
@@ -149,7 +149,7 @@
 | 这个料的技术等级 / 某一项指标落不落位 | `ch1-c8`（先看表 1-16 的方向）、`ch1-c2`（等级）——**只判单项，不出合格结论** |
 | 级配算得对不对 | `ch1-c6`、`ch3-gradation-synthesis` |
 | 针入度 / 软化点 / 延度怎么读 | `ch2-K9`（口径地图）→ `ch2-K1` |
-| PG 分级能不能判 | `ch2-K4`（**不能**，且不得代补） |
+| PG 分级能不能判 | `ch2-K4`（**能**，按表 2-8 十行判；温度必须对档） |
 | 沥青混合料的 VV / VMA / VFA | `ch3-volume-parameters` |
 | 马歇尔定 OAC | `ch3-oac-marshall`（**标准表必须显式**） |
 | SMA 的骨架与用量 | `ch3-sma-skeleton`、`ch3-sma-dosage` |

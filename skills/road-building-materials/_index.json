@@ -99,13 +99,13 @@
   "path": "cards/ch2/ch2-K3-grades-and-four-tables.md"
  },
  {
-  "id": "ch2-K4-pg-name-only",
+  "id": "ch2-K4-pg-judgeable",
   "chapter": "ch2",
   "chapter_title": "沥青材料",
   "pages": "印刷 43–85",
   "title": "K4 PG：只能命名，不能判",
   "importance": "medium",
-  "path": "cards/ch2/ch2-K4-pg-name-only.md"
+  "path": "cards/ch2/ch2-K4-pg-judgeable.md"
  },
  {
   "id": "ch2-K5-three-mechanical-tests",
