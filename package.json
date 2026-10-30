@@ -1,0 +1,89 @@
+{
+  "name": "dsh-road-building-materials",
+  "version": "1.0.0",
+  "description": "An entire Chinese textbook on road building materials (12 chapters, 60 capability cards) distilled into one skill entry. This is a MATERIAL-CALIBER manual, not a pass/fail checker: its deliverable is 'under what conditions does this number hold', not 'is this material acceptable'. Covers aggregate density families and gradation, asphalt penetration/softening-point/ductility and the PG system, asphalt-mix volumetric parameters and Marshall mix design, cement strength grade and soundness, concrete and mortar mix proportioning, inorganic-binder stabilized mixtures and their 7d strength, steel grades, engineering polymers, and the 35 test procedures of the book's second part. Contains three direction errors that will judge non-conforming material as conforming if copied, five worked examples that cannot be reproduced (two of which must never be quoted), and two places where the OCR fabricated figure data with invented coordinates.",
+  "type": "module",
+  "main": "lib/startup.js",
+  "exports": {
+    ".": "./lib/startup.js",
+    "./startup": "./lib/startup.js",
+    "./cordis.patch.yml": "./cordis.patch.yml",
+    "./package.json": "./package.json"
+  },
+  "files": [
+    "lib",
+    "skills",
+    "cordis.patch.yml",
+    "README.md",
+    "NOTICE",
+    "LICENSE",
+    "BLIND-TEST-LOG.md",
+    "catalog-entry"
+  ],
+  "dsh": {
+    "bundle": {
+      "patch": "./cordis.patch.yml"
+    }
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "keywords": [
+    "dsh-plugin",
+    "deepseek-harness",
+    "dsh-skill",
+    "road-building-materials",
+    "civil-engineering",
+    "pavement-materials",
+    "aggregate",
+    "gradation",
+    "fineness-modulus",
+    "crushing-value",
+    "asphalt",
+    "penetration",
+    "softening-point",
+    "ductility",
+    "pg-grading",
+    "shrp",
+    "modified-asphalt",
+    "emulsified-asphalt",
+    "asphalt-mix",
+    "marshall",
+    "oac",
+    "vv-vma-vfa",
+    "sma",
+    "cement",
+    "soundness",
+    "mortar-strength",
+    "lime",
+    "available-cao",
+    "concrete-mix-design",
+    "water-cement-ratio",
+    "superplasticizer",
+    "fly-ash",
+    "steel-fiber-concrete",
+    "roller-compacted-concrete",
+    "inorganic-binder",
+    "lime-flyash-aggregate",
+    "cement-stabilized-macadam",
+    "dosage",
+    "compaction",
+    "7d-strength",
+    "rebar",
+    "yield-strength-ratio",
+    "cold-bend",
+    "polymer",
+    "geosynthetics",
+    "polymer-concrete",
+    "test-procedure"
+  ],
+  "author": "Qiujiyuantiantian",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Qiujiyuantiantian/dsh-road-building-materials.git"
+  },
+  "license": "MIT",
+  "publishConfig": {
+    "access": "public"
+  }
+}

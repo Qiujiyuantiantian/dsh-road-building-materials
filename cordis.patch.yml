@@ -1,0 +1,11 @@
+# dsh-road-building-materials - DSH bundle patch.
+#
+# Registers the `road-building-materials` skill: 《道路建筑材料》(第四版, 12 chapters, 60 capability cards)
+# behind ONE entry with a one-level router.
+#
+# Must be wrapped in `- insert:` - a bare `- id: ...` row only overrides an existing row's config.
+
+- insert:
+    - id: road-building-materials-skill
+      name: 'dsh-road-building-materials/startup'
+      inject: [skills]

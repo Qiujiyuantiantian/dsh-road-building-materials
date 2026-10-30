@@ -1,0 +1,542 @@
+[
+ {
+  "id": "ch1-c1-three-densities",
+  "chapter": "ch1",
+  "chapter_title": "石料与集料",
+  "pages": "印刷 5–42",
+  "title": "C1 石料的三档密度与孔隙率：换的是分母，不是材料",
+  "importance": "medium",
+  "path": "cards/ch1/ch1-c1-three-densities.md"
+ },
+ {
+  "id": "ch1-c2-stone-grade",
+  "chapter": "ch1",
+  "chapter_title": "石料与集料",
+  "pages": "印刷 5–42",
+  "title": "C2 石料技术等级判断：三列同落才成级",
+  "importance": "medium",
+  "path": "cards/ch1/ch1-c2-stone-grade.md"
+ },
+ {
+  "id": "ch1-c3-aggregate-density-family",
+  "chapter": "ch1",
+  "chapter_title": "石料与集料",
+  "pages": "印刷 5–42",
+  "title": "C3 集料密度族与装填状态：多一档表干、多三档装样",
+  "importance": "medium",
+  "path": "cards/ch1/ch1-c3-aggregate-density-family.md"
+ },
+ {
+  "id": "ch1-c4-four-mechanical",
+  "chapter": "ch1",
+  "chapter_title": "石料与集料",
+  "pages": "印刷 5–42",
+  "title": "C4 粗集料四个力学指标：压碎那一族有两个互补的量",
+  "importance": "medium",
+  "path": "cards/ch1/ch1-c4-four-mechanical.md"
+ },
+ {
+  "id": "ch1-c5-cleanliness",
+  "chapter": "ch1",
+  "chapter_title": "石料与集料",
+  "pages": "印刷 5–42",
+  "title": "C5 洁净度指标族：五种口径、一条断链、三处细分母",
+  "importance": "medium",
+  "path": "cards/ch1/ch1-c5-cleanliness.md"
+ },
+ {
+  "id": "ch1-c6-gradation-fit",
+  "chapter": "ch1",
+  "chapter_title": "石料与集料",
+  "pages": "印刷 5–42",
+  "title": "C6 级配参数与细度模数：全章唯一每格都咬得住的一条链",
+  "importance": "medium",
+  "path": "cards/ch1/ch1-c6-gradation-fit.md"
+ },
+ {
+  "id": "ch1-c7-mix-proportion",
+  "chapter": "ch1",
+  "chapter_title": "石料与集料",
+  "pages": "印刷 5–42",
+  "title": "C7 矿质混合料配合比：三条路，只有一条走到判据",
+  "importance": "medium",
+  "path": "cards/ch1/ch1-c7-mix-proportion.md"
+ },
+ {
+  "id": "ch1-c8-unbound-spec",
+  "chapter": "ch1",
+  "chapter_title": "石料与集料",
+  "pages": "印刷 5–42",
+  "title": "C8 无结合料集料的规格判据：表1-16 的「≥」应为「≤」",
+  "importance": "medium",
+  "path": "cards/ch1/ch1-c8-unbound-spec.md"
+ },
+ {
+  "id": "ch2-K1-three-families",
+  "chapter": "ch2",
+  "chapter_title": "沥青材料",
+  "pages": "印刷 43–85",
+  "title": "K1 感温性三族：各管一段温度，不互通",
+  "importance": "medium",
+  "path": "cards/ch2/ch2-K1-three-families.md"
+ },
+ {
+  "id": "ch2-K2-equivalent-temperature",
+  "chapter": "ch2",
+  "chapter_title": "沥青材料",
+  "pages": "印刷 43–85",
+  "title": "K2 当量温度：能算，但「代替」有边界",
+  "importance": "medium",
+  "path": "cards/ch2/ch2-K2-equivalent-temperature.md"
+ },
+ {
+  "id": "ch2-K3-grades-and-four-tables",
+  "chapter": "ch2",
+  "chapter_title": "沥青材料",
+  "pages": "印刷 43–85",
+  "title": "K3 标号与四张判据表：一份文件一张表",
+  "importance": "medium",
+  "path": "cards/ch2/ch2-K3-grades-and-four-tables.md"
+ },
+ {
+  "id": "ch2-K4-pg-name-only",
+  "chapter": "ch2",
+  "chapter_title": "沥青材料",
+  "pages": "印刷 43–85",
+  "title": "K4 PG：只能命名，不能判",
+  "importance": "medium",
+  "path": "cards/ch2/ch2-K4-pg-name-only.md"
+ },
+ {
+  "id": "ch2-K5-three-mechanical-tests",
+  "chapter": "ch2",
+  "chapter_title": "沥青材料",
+  "pages": "印刷 43–85",
+  "title": "K5 力学评价三试验：测什么能测，判什么判不了",
+  "importance": "medium",
+  "path": "cards/ch2/ch2-K5-three-mechanical-tests.md"
+ },
+ {
+  "id": "ch2-K6-aging-three-levels",
+  "chapter": "ch2",
+  "chapter_title": "沥青材料",
+  "pages": "印刷 43–85",
+  "title": "K6 老化模拟三级：两级短期只拌和，一级长期只表层",
+  "importance": "medium",
+  "path": "cards/ch2/ch2-K6-aging-three-levels.md"
+ },
+ {
+  "id": "ch2-K7-modified",
+  "chapter": "ch2",
+  "chapter_title": "沥青材料",
+  "pages": "印刷 43–85",
+  "title": "K7 改性沥青：类×级与四项专用试验",
+  "importance": "medium",
+  "path": "cards/ch2/ch2-K7-modified.md"
+ },
+ {
+  "id": "ch2-K8-emulsified",
+  "chapter": "ch2",
+  "chapter_title": "沥青材料",
+  "pages": "印刷 43–85",
+  "title": "K8 乳化沥青：代号两维、九项指标、三张判据表",
+  "importance": "medium",
+  "path": "cards/ch2/ch2-K8-emulsified.md"
+ },
+ {
+  "id": "ch2-K9-caliber-map",
+  "chapter": "ch2",
+  "chapter_title": "沥青材料",
+  "pages": "印刷 43–85",
+  "title": "K9 口径地图：一个指标名就是一套条件（用卡之前先过这一关）",
+  "importance": "medium",
+  "path": "cards/ch2/ch2-K9-caliber-map.md"
+ },
+ {
+  "id": "ch3-gradation-synthesis",
+  "chapter": "ch3",
+  "chapter_title": "沥青混合料",
+  "pages": "印刷 86–144",
+  "title": "ch3-gradation-synthesis — 级配合成与超限退改：加权合成能复算，图解法只能接受",
+  "importance": "medium",
+  "path": "cards/ch3/ch3-gradation-synthesis.md"
+ },
+ {
+  "id": "ch3-high-temp",
+  "chapter": "ch3",
+  "chapter_title": "沥青混合料",
+  "pages": "印刷 86–144",
+  "title": "ch3-high-temp — 高温稳定性的两把尺：稳定度记数、动稳定度判数，两者无换算",
+  "importance": "medium",
+  "path": "cards/ch3/ch3-high-temp.md"
+ },
+ {
+  "id": "ch3-low-temp-skid",
+  "chapter": "ch3",
+  "chapter_title": "沥青混合料",
+  "pages": "印刷 86–144",
+  "title": "ch3-low-temp-skid — 低温与抗滑：两个指标算得出，门槛取不到，只判方向",
+  "importance": "medium",
+  "path": "cards/ch3/ch3-low-temp-skid.md"
+ },
+ {
+  "id": "ch3-oac-marshall",
+  "chapter": "ch3",
+  "chapter_title": "沥青混合料",
+  "pages": "印刷 86–144",
+  "title": "ch3-oac-marshall — 马歇尔定 OAC：先抄标准行，再算 OAC₁／OAC₂；标准行不标出处，OAC 作废",
+  "importance": "medium",
+  "path": "cards/ch3/ch3-oac-marshall.md"
+ },
+ {
+  "id": "ch3-sma-dosage",
+  "chapter": "ch3",
+  "chapter_title": "沥青混合料",
+  "pages": "印刷 86–144",
+  "title": "ch3-sma-dosage — SMA 用量双向夹逼：析漏封顶、飞散托底、空隙率定落点，数值一概不引",
+  "importance": "medium",
+  "path": "cards/ch3/ch3-sma-dosage.md"
+ },
+ {
+  "id": "ch3-sma-skeleton",
+  "chapter": "ch3",
+  "chapter_title": "沥青混合料",
+  "pages": "印刷 86–144",
+  "title": "ch3-sma-skeleton — SMA 骨架判据：不等式只是必要条件，P_ca 必须先声明",
+  "importance": "medium",
+  "path": "cards/ch3/ch3-sma-skeleton.md"
+ },
+ {
+  "id": "ch3-volume-parameters",
+  "chapter": "ch3",
+  "chapter_title": "沥青混合料",
+  "pages": "印刷 86–144",
+  "title": "ch3-volume-parameters — 体积参数五件套：两个密度进、四个百分率出，每个百分率挂一个口径标签",
+  "importance": "medium",
+  "path": "cards/ch3/ch3-volume-parameters.md"
+ },
+ {
+  "id": "ch3-water-stability",
+  "chapter": "ch3",
+  "chapter_title": "沥青混合料",
+  "pages": "印刷 86–144",
+  "title": "ch3-water-stability — 水稳定性三判据：等级、残留稳定度、冻融强度比，递进且不可互替",
+  "importance": "medium",
+  "path": "cards/ch3/ch3-water-stability.md"
+ },
+ {
+  "id": "ch4-blend-entry-check",
+  "chapter": "ch4",
+  "chapter_title": "水泥与石灰",
+  "pages": "印刷 145–167",
+  "title": "ch4-blend-entry-check — 掺混合材：掺量定品种，四个入口先体检",
+  "importance": "medium",
+  "path": "cards/ch4/ch4-blend-entry-check.md"
+ },
+ {
+  "id": "ch4-lime-caliber",
+  "chapter": "ch4",
+  "chapter_title": "水泥与石灰",
+  "pages": "印刷 145–167",
+  "title": "ch4-lime-caliber — 石灰：两个口径、两个数、一道陈伏",
+  "importance": "medium",
+  "path": "cards/ch4/ch4-lime-caliber.md"
+ },
+ {
+  "id": "ch4-physical-indices",
+  "chapter": "ch4",
+  "chapter_title": "水泥与石灰",
+  "pages": "印刷 145–167",
+  "title": "ch4-physical-indices — 四项物理指标：各走各的仪器、基体与门槛",
+  "importance": "medium",
+  "path": "cards/ch4/ch4-physical-indices.md"
+ },
+ {
+  "id": "ch4-road-cement-tables",
+  "chapter": "ch4",
+  "chapter_title": "水泥与石灰",
+  "pages": "印刷 145–167",
+  "title": "ch4-road-cement-tables — 道路水泥：三表并置，四关里两关不可执行",
+  "importance": "medium",
+  "path": "cards/ch4/ch4-road-cement-tables.md"
+ },
+ {
+  "id": "ch4-soundness-causes",
+  "chapter": "ch4",
+  "chapter_title": "水泥与石灰",
+  "pages": "印刷 145–167",
+  "title": "ch4-soundness-causes — 安定性：一个指标名、三个成因、三道门",
+  "importance": "medium",
+  "path": "cards/ch4/ch4-soundness-causes.md"
+ },
+ {
+  "id": "ch4-strength-grade",
+  "chapter": "ch4",
+  "chapter_title": "水泥与石灰",
+  "pages": "印刷 145–167",
+  "title": "ch4-strength-grade — 强度等级的判定与四列回填",
+  "importance": "medium",
+  "path": "cards/ch4/ch4-strength-grade.md"
+ },
+ {
+  "id": "ch5-flyash",
+  "chapter": "ch5",
+  "chapter_title": "水泥混凝土与砂浆",
+  "pages": "印刷 168–234",
+  "title": "ch5-flyash — 粉煤灰：三个口径、两套限值、一个密度",
+  "importance": "medium",
+  "path": "cards/ch5/ch5-flyash.md"
+ },
+ {
+  "id": "ch5-mix-proportion-chain",
+  "chapter": "ch5",
+  "chapter_title": "水泥混凝土与砂浆",
+  "pages": "印刷 168–234",
+  "title": "ch5-mix-proportion-chain — 普通混凝土配合比：从强度等级到施工配合比",
+  "importance": "medium",
+  "path": "cards/ch5/ch5-mix-proportion-chain.md"
+ },
+ {
+  "id": "ch5-mortar",
+  "chapter": "ch5",
+  "chapter_title": "水泥混凝土与砂浆",
+  "pages": "印刷 168–234",
+  "title": "ch5-mortar — 砌筑砂浆：先判基底吸不吸水，再决定走式还是走表",
+  "importance": "medium",
+  "path": "cards/ch5/ch5-mortar.md"
+ },
+ {
+  "id": "ch5-pavement-flexural",
+  "chapter": "ch5",
+  "chapter_title": "水泥混凝土与砂浆",
+  "pages": "印刷 168–234",
+  "title": "ch5-pavement-flexural — 路面混凝土：七步骨架与七个必须停的地方",
+  "importance": "medium",
+  "path": "cards/ch5/ch5-pavement-flexural.md"
+ },
+ {
+  "id": "ch5-roller-compacted",
+  "chapter": "ch5",
+  "chapter_title": "水泥混凝土与砂浆",
+  "pages": "印刷 168–234",
+  "title": "ch5-roller-compacted — 碾压混凝土：没有砂率，只有填充体积率",
+  "importance": "medium",
+  "path": "cards/ch5/ch5-roller-compacted.md"
+ },
+ {
+  "id": "ch5-steel-fiber",
+  "chapter": "ch5",
+  "chapter_title": "水泥混凝土与砂浆",
+  "pages": "印刷 168–234",
+  "title": "ch5-steel-fiber — 钢纤维混凝土：砂率是\"基体砂率 + 纤维修正\"",
+  "importance": "medium",
+  "path": "cards/ch5/ch5-steel-fiber.md"
+ },
+ {
+  "id": "ch5-strength-evaluation",
+  "chapter": "ch5",
+  "chapter_title": "水泥混凝土与砂浆",
+  "pages": "印刷 168–234",
+  "title": "ch5-strength-evaluation — 混凝土强度评定：三条互斥的路",
+  "importance": "medium",
+  "path": "cards/ch5/ch5-strength-evaluation.md"
+ },
+ {
+  "id": "ch5-superplasticizer",
+  "chapter": "ch5",
+  "chapter_title": "水泥混凝土与砂浆",
+  "pages": "印刷 168–234",
+  "title": "ch5-superplasticizer — 掺减水剂：一个减水率只能兑现一个目标",
+  "importance": "medium",
+  "path": "cards/ch5/ch5-superplasticizer.md"
+ },
+ {
+  "id": "ch6-7d-criterion",
+  "chapter": "ch6",
+  "chapter_title": "无机结合料稳定类混合料",
+  "pages": "印刷 235–258",
+  "title": "ch6-7d-criterion — 7d 浸水强度：一个龄期、一张表、一个保证率",
+  "importance": "medium",
+  "path": "cards/ch6/ch6-7d-criterion.md"
+ },
+ {
+  "id": "ch6-cement-aggregate-formulas",
+  "chapter": "ch6",
+  "chapter_title": "无机结合料稳定类混合料",
+  "pages": "印刷 235–258",
+  "title": "ch6-cement-aggregate-formulas — 水泥稳定集料：三条式子与三个空输入",
+  "importance": "medium",
+  "path": "cards/ch6/ch6-cement-aggregate-formulas.md"
+ },
+ {
+  "id": "ch6-dosage-denominator",
+  "chapter": "ch6",
+  "chapter_title": "无机结合料稳定类混合料",
+  "pages": "印刷 235–258",
+  "title": "ch6-dosage-denominator — 剂量：一个词、两个分母、三张表",
+  "importance": "medium",
+  "path": "cards/ch6/ch6-dosage-denominator.md"
+ },
+ {
+  "id": "ch6-flyash-macadam-calc",
+  "chapter": "ch6",
+  "chapter_title": "无机结合料稳定类混合料",
+  "pages": "印刷 235–258",
+  "title": "ch6-flyash-macadam-calc — 二灰碎石：填充理论八步，全链可复算",
+  "importance": "medium",
+  "path": "cards/ch6/ch6-flyash-macadam-calc.md"
+ },
+ {
+  "id": "ch6-hierarchy-ban",
+  "chapter": "ch6",
+  "chapter_title": "无机结合料稳定类混合料",
+  "pages": "印刷 235–258",
+  "title": "ch6-hierarchy-ban — 层级禁令：三类细粒土与高等级基层",
+  "importance": "medium",
+  "path": "cards/ch6/ch6-hierarchy-ban.md"
+ },
+ {
+  "id": "ch6-lime-soil-procedure",
+  "chapter": "ch6",
+  "chapter_title": "无机结合料稳定类混合料",
+  "pages": "印刷 235–258",
+  "title": "ch6-lime-soil-procedure — 石灰土配合比：试验法九步，末步断在图上",
+  "importance": "medium",
+  "path": "cards/ch6/ch6-lime-soil-procedure.md"
+ },
+ {
+  "id": "ch6-shrinkage-scales",
+  "chapter": "ch6",
+  "chapter_title": "无机结合料稳定类混合料",
+  "pages": "印刷 235–258",
+  "title": "ch6-shrinkage-scales — 收缩：先分应变与系数，再谈排序",
+  "importance": "medium",
+  "path": "cards/ch6/ch6-shrinkage-scales.md"
+ },
+ {
+  "id": "ch6-soil-stabilizer",
+  "chapter": "ch6",
+  "chapter_title": "无机结合料稳定类混合料",
+  "pages": "印刷 235–258",
+  "title": "ch6-soil-stabilizer — 土壤固化剂：表 6-16 的末行是倍数",
+  "importance": "medium",
+  "path": "cards/ch6/ch6-soil-stabilizer.md"
+ },
+ {
+  "id": "ch7-cold-bend-four-tables",
+  "chapter": "ch7",
+  "chapter_title": "建筑钢材",
+  "pages": "印刷 259–270",
+  "title": "ch7-cold-bend-four-tables — 冷弯：四维判据，与四张表的四个断点",
+  "importance": "medium",
+  "path": "cards/ch7/ch7-cold-bend-four-tables.md"
+ },
+ {
+  "id": "ch7-ratio-and-elongation",
+  "chapter": "ch7",
+  "chapter_title": "建筑钢材",
+  "pages": "印刷 259–270",
+  "title": "ch7-ratio-and-elongation — 屈强比与伸长率：能算的那个下界，与算不出的那两个比值",
+  "importance": "medium",
+  "path": "cards/ch7/ch7-ratio-and-elongation.md"
+ },
+ {
+  "id": "ch7-rebar-grades",
+  "chapter": "ch7",
+  "chapter_title": "建筑钢材",
+  "pages": "印刷 259–270",
+  "title": "ch7-rebar-grades — 热轧钢筋与热处理钢筋：牌号 → 强度 → 塑性 → 冷弯 → 用途",
+  "importance": "medium",
+  "path": "cards/ch7/ch7-rebar-grades.md"
+ },
+ {
+  "id": "ch8-classification",
+  "chapter": "ch8",
+  "chapter_title": "工程聚合物",
+  "pages": "印刷 271–282",
+  "title": "ch8-classification — 结构—性能分类：三枚标签、一条自校验、四道断口",
+  "importance": "medium",
+  "path": "cards/ch8/ch8-classification.md"
+ },
+ {
+  "id": "ch8-placement-boundary",
+  "chapter": "ch8",
+  "chapter_title": "工程聚合物",
+  "pages": "印刷 271–282",
+  "title": "ch8-placement-boundary — 落点与章际边界：五块去处、四条线、一张三色表",
+  "importance": "medium",
+  "path": "cards/ch8/ch8-placement-boundary.md"
+ },
+ {
+  "id": "ch8-polymer-concrete",
+  "chapter": "ch8",
+  "chapter_title": "工程聚合物",
+  "pages": "印刷 271–282",
+  "title": "ch8-polymer-concrete — 三类聚合物混凝土：按「胶结材料是谁」分流",
+  "importance": "medium",
+  "path": "cards/ch8/ch8-polymer-concrete.md"
+ },
+ {
+  "id": "test-aggregate-densities",
+  "chapter": "ch9-12",
+  "chapter_title": "试验篇（石料集料/沥青/水泥混凝土/无机结合料）",
+  "pages": "印刷 283–341",
+  "title": "test-aggregate-densities — 集料的五种密度与两个空隙率：名字一换，分母就换",
+  "importance": "medium",
+  "path": "cards/ch9-12/test-aggregate-densities.md"
+ },
+ {
+  "id": "test-asphalt-three-indices",
+  "chapter": "ch9-12",
+  "chapter_title": "试验篇（石料集料/沥青/水泥混凝土/无机结合料）",
+  "pages": "印刷 283–341",
+  "title": "test-asphalt-three-indices — 沥青三大指标：条件即定义",
+  "importance": "medium",
+  "path": "cards/ch9-12/test-asphalt-three-indices.md"
+ },
+ {
+  "id": "test-concrete-workability-strength",
+  "chapter": "ch9-12",
+  "chapter_title": "试验篇（石料集料/沥青/水泥混凝土/无机结合料）",
+  "pages": "印刷 283–341",
+  "title": "test-concrete-workability-strength — 混凝土：和易性 → 试模 → 三种强度（补 ch5 的两件）",
+  "importance": "medium",
+  "path": "cards/ch9-12/test-concrete-workability-strength.md"
+ },
+ {
+  "id": "test-mix-specimen-flow",
+  "chapter": "ch9-12",
+  "chapter_title": "试验篇（石料集料/沥青/水泥混凝土/无机结合料）",
+  "pages": "印刷 283–341",
+  "title": "test-mix-specimen-flow — 混合料试件流：试件怎么来，结果就只能跟谁比",
+  "importance": "medium",
+  "path": "cards/ch9-12/test-mix-specimen-flow.md"
+ },
+ {
+  "id": "test-mortar-strength",
+  "chapter": "ch9-12",
+  "chapter_title": "试验篇（石料集料/沥青/水泥混凝土/无机结合料）",
+  "pages": "印刷 283–341",
+  "title": "test-mortar-strength — 水泥胶砂强度：一组成绩怎么从三条算到一个数（补 ch4 的三件）",
+  "importance": "medium",
+  "path": "cards/ch9-12/test-mortar-strength.md"
+ },
+ {
+  "id": "test-stabilized-compaction-7d",
+  "chapter": "ch9-12",
+  "chapter_title": "试验篇（石料集料/沥青/水泥混凝土/无机结合料）",
+  "pages": "印刷 283–341",
+  "title": "test-stabilized-compaction-7d — 稳定土：击实三法 → 7d 养生 → 95% 代表值（补 ch6 的两件）",
+  "importance": "medium",
+  "path": "cards/ch9-12/test-stabilized-compaction-7d.md"
+ },
+ {
+  "id": "test-stone-crushing",
+  "chapter": "ch9-12",
+  "chapter_title": "试验篇（石料集料/沥青/水泥混凝土/无机结合料）",
+  "pages": "印刷 283–341",
+  "title": "test-stone-crushing — 石料抗压与三种\"抗碎\"：同名不同物，先判测的是哪一个",
+  "importance": "medium",
+  "path": "cards/ch9-12/test-stone-crushing.md"
+ }
+]
