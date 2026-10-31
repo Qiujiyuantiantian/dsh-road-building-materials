@@ -1,0 +1,50 @@
+# Publish to npm when a version tag is pushed.
+#
+# Why a tag trigger: npm publishing used to be a manual step, and one skipped step was enough for
+# two builds to claim the same version number while containing different content. Here the tag is the
+# source of truth, and the guard below refuses to publish when the tag and the manifest disagree.
+#
+# workflow_dispatch exists so the first release can be published without inventing a tag first.
+name: publish
+
+on:
+  push:
+    tags:
+      - 'v*'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  id-token: write
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out
+        uses: actions/checkout@v4
+
+      - name: Set up Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          registry-url: 'https://registry.npmjs.org'
+
+      - name: Refuse to publish a tag that disagrees with package.json
+        run: |
+          PKG=$(node -p "require('./package.json').version")
+          if [ "${GITHUB_REF_TYPE}" = "tag" ]; then
+            TAG="${GITHUB_REF_NAME#v}"
+            if [ "$PKG" != "$TAG" ]; then
+              echo "tag ${GITHUB_REF_NAME} != package.json ${PKG}" >&2
+              exit 1
+            fi
+            echo "tag and manifest agree on ${PKG}"
+          else
+            echo "manual run, publishing ${PKG}"
+          fi
+
+      - name: Publish
+        run: npm publish --access public
+        env:
+          NODE_AUTH_TOKEN: ${{ secrets.NPM_TOKEN }}
